@@ -1,0 +1,76 @@
+#Pre{
+	font-size: 60px;
+	font-style: italic;
+	text-decoration:underline;
+	text-align: center;
+		text-shadow: 5px 2px 1px yellow;
+}
+#img1{
+	float: left;
+	height: 160px;
+	margin-left: 40px;
+	margin-top: -150px;
+}
+
+#A{
+	font-size: 60px;
+	text-decoration: underline;
+	margin-top: 10px;
+}
+div{
+	border:solid 1px lightseagreen;
+	border-radius: 10px;
+	width: 700px;
+	margin-left: 250px;
+	text-align:center;
+	background-color: lightseagreen;
+	color: red;
+	font-size: 30px;
+	margin-top: -1px;}
+#p1{
+	font-size: 30px;
+	text-align: center;
+	font-family: cursive;
+
+}
+#p2{
+	font-size: 30px;
+	color: blue;}
+	.j
+{
+background:yellow;
+width: 2000px;
+height: 250px;
+margin-right: 800px;
+margin-left: 10px;
+margin-top: 100px;
+
+}
+
+#p3{
+	margin-right:600px;
+	font-family: fantasy;
+	text-decoration: underline;
+}
+
+#p4{
+	margin-right:700px;
+	font-family: monospace;
+	margin-top:-20px;
+	font-size:20px;
+	text-shadow:5px 2px 1px orange;}
+
+	/*body{
+		background-image: url(IMG-20200314-WA0004.JPG)
+		/*background-repeat: no-repeat;
+	background-size: cover;*/
+
+	body{
+		background-color: rgba(0,0,0,0.10);
+		
+	}
+
+
+
+
+

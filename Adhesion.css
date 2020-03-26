@@ -1,0 +1,83 @@
+#D1{
+text-decoration:underline;
+font-size: 30px;
+text-align: center;
+text-shadow: 5px 2px 1px yellow;
+font-style: italic;
+
+}
+#img1{
+	float: left;
+	height: 130px;
+	margin-left: 40px;
+	margin-top: -40px;
+}
+#p1{
+	margin-top: -10px;
+	float: right;
+	margin-right: 1030px;
+}
+#D3{
+	margin-top: 30px;
+	margin-left: 100px;
+font-size: 20px;
+}
+
+#A{
+	float: right;
+	margin-top: -100px;
+font-size:30px;
+}
+#A1{
+	font-size:30px;
+		float: right;
+	margin-top: -60px;
+}
+#D4{
+	margin-top: 30px;
+	margin-left: 100px;
+font-size: 20px;
+}
+#D5{
+	margin-top: 20px;
+}
+#D6{
+	margin-top: 40px;
+}
+#D7{
+	margin-top: -20px;
+	margin-left: 90px;
+	font-size: 20px;
+}
+#D{
+	margin-top: -20px;
+}
+nav{
+	border:solid 1px lightseagreen;
+	border-radius: 10px;
+	width: 500px;
+	margin-left: 500px;
+	color: white;
+	font-size: 20px;
+background-color: rgba(0,0,0,0.5);
+	margin-top: -30px;
+}
+#D10{
+font-size: 30px;
+	float: right;
+	margin-top: -700px;
+
+}
+
+
+#but{
+	margin-top: 700px;
+	float: right;
+color: red;
+	font-size: 30px;
+}
+
+
+/*body{
+	background-image: url(IMG-20200314-WA0004.JPG);
+}*/
